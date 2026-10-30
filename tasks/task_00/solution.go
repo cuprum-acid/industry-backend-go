@@ -1,5 +1,5 @@
 package main
 
 func greet() string {
-	return("Hello, World!")
+	return "Hello, World!"
 }
